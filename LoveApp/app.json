@@ -1,0 +1,12 @@
+{
+  "name": "LoveApp",
+  "displayName": "LoveApp",
+  "expo": {
+    "name": "LoveApp",
+    "slug": "LoveApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
