@@ -1,0 +1,12 @@
+{
+  "name": "PropsSampleApp",
+  "displayName": "PropsSampleApp",
+  "expo": {
+    "name": "PropsSampleApp",
+    "slug": "PropsSampleApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
