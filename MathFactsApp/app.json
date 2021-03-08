@@ -1,0 +1,12 @@
+{
+  "name": "MathFactsApp",
+  "displayName": "MathFactsApp",
+  "expo": {
+    "name": "MathFactsApp",
+    "slug": "MathFactsApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
