@@ -1,0 +1,12 @@
+{
+  "name": "StateSampleApp",
+  "displayName": "StateSampleApp",
+  "expo": {
+    "name": "StateSampleApp",
+    "slug": "StateSampleApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
